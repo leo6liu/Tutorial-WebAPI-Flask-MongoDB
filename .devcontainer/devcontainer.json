@@ -7,7 +7,4 @@
 		"ms-python.python",
 		"mongodb.mongodb-vscode",
 	],
-	"features": {
-		"git": "latest",
-	}
 }
